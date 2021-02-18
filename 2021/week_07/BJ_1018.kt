@@ -21,7 +21,7 @@ fun main() {
         }
     }
 
-    var result = 51
+    var result = 63
 
     for (i in 0 until N) {
         if (i + 8 > N) {
